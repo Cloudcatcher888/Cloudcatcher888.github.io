@@ -7,6 +7,7 @@ venue: 'IJCAI (accept rate: 15%)'
 citation: 'Zhikai, W. Yanyan, S. Zibin, Z. and Kangyi, L. (2023). "Feature Staleness Aware Incremental Learning for CTR prediction" <i>IJCAI 2023</i>.'
 ---
 ![ijcai]({{site.url}}/images/ijcai.png)
+
 [pdf]({{site.url}}/files/ijcai23.pdf)
 
    **Zhikai Wang**,Yanyan Shen, Zibin Zhang, Kangyi Lin
