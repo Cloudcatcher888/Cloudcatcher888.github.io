@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Daniel Wong's homepage.
-
 {% include base_path %}
 
 Education
