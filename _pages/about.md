@@ -22,7 +22,9 @@ Work experience
 * Dec. 2021-Dec. 2022: Research Assistant
   * Tencent， supervisor by Zibin Zhang and Kangyi Lin.
 
-  
+Research Interest
+======
+I'm interested in devleoping efficient models for recommendation system (e.g. CTR prediction and sequential recommendation) and improve the generalization ability of models in incremental scenario.  
 
 Publications
 ======
