@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Sept. 2019-Present, PhD candidate (graduate in June 2024) @ [Data Driven Software Technology Lab](https://ddst.sjtu.edu.cn), [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University, Shanghai, China 200240](https://www.sjtu.edu.cn/)
+supervised by [Prof. Yanyan Shen](https://www.cs.sjtu.edu.cn/~shen-yy/). 
+
+* Sept. 2015-July 2019, Bachelor of Engineering at Shanghai Jiao Tong University. 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec. 2021-Dec. 2022: Research Assistant
+  * Tencent
+  * Supervisor: Zibin Zhang, Kangyi Lin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +30,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
