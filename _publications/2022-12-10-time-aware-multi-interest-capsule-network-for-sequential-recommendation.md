@@ -6,7 +6,7 @@ date: 2022-12-10
 venue: 'SDM 2022'
 citation: 'Zhikai, W. Yanyan, S. (2022). "Time-aware Multi-interest Capsule Network for Sequential Recommendation" <i>SDM 2022</i>. 1(3).'
 ---
-<div align=center><img width = '650' height ='250' src ="images/sdm.png"/></div>
+![sdm]({{site.url}}/images/sdm.png)
 
 3. [link](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.63)  [pdf]({{site.url}}/files/sdm.pdf)
 

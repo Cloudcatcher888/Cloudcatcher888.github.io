@@ -6,7 +6,7 @@ date: 2023-4-22
 venue: 'ICDE 2023'
 citation: 'Zhikai, W. (2023). "Incremental Learning for Multi-interest Sequential Recommendation." <i>ICDE 2023</i>. 1(1).'
 ---
-<div align=center><img width = '650' height ='250' src ="images/icde2.png"/></div>
+![icde]({{site.url}}/images/icde2.png)
 
 [pdf]({{site.url}}/files/icde.pdf) [slides]({{site.url}}/files/icde_slides.pdf) 
 
