@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-4-19-feature-staleness-aware-incremental-learning-for-ctr-prediction
 date: 2023-4-19
 venue: 'IJCAI (accept rate: 15%)'
-citation: 'Zhikai, W. Yanyan, S. Zibin, Z. and Kangyi, L. (2023). "Feature Staleness Aware Incremental Learning for CTR prediction" <i>IJCAI 2023</i>. 1(2).'
+citation: 'Zhikai, W. Yanyan, S. Zibin, Z. and Kangyi, L. (2023). "Feature Staleness Aware Incremental Learning for CTR prediction" <i>IJCAI 2023</i>.'
 ---
 ![ijcai]({{site.url}}/images/ijcai.png)
 [pdf]({{site.url}}/files/ijcai23.pdf)
