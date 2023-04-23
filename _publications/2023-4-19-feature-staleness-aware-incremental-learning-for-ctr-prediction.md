@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-4-19-feature-staleness-aware-incremental-learning-for-ctr-prediction
 date: 2023-4-19
 venue: 'IJCAI (accept rate: 15%)'
-citation: 'Zhikai Wang, Yanyan Shen, Zibin Zhang, and Kangyi Lin <i>IJCAI 2023</i>.'
+citation: 'Zhikai Wang, Yanyan Shen, Zibin Zhang, and Kangyi Lin. in <i>IJCAI 2023</i>.'
 ---
 ![ijcai]({{site.url}}/images/ijcai.png)
 
