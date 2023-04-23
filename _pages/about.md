@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhikai Wang"
+title: "Zhikai Wang - SJTU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
