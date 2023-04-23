@@ -27,7 +27,7 @@ News
 * 2023.03: Our paper “Incremental Learning for Multi-interest Sequential Recommendation” received the
 ICDE 2023 <font color="red">Best Paper Award (top 1)</font>!
 
-Research Interest
+Research interest
 ======
 I'm interested in devleoping efficient models for recommendation system (e.g. CTR prediction and sequential recommendation) and improve the generalization ability of models in incremental scenario.  
 
