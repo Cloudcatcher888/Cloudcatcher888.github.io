@@ -19,8 +19,8 @@ supervised by [Prof. Yanyan Shen](https://www.cs.sjtu.edu.cn/~shen-yy/).
 
 Work experience
 ======
-* Dec. 2021-Dec. 2022: Research Assistant
-  * Tencent Wechat Official Accounts Platform, supervised by Zibin Zhang and Kangyi Lin.
+* Dec. 2021-Dec. 2022: Research Assistant in Tencent, supervised by Zibin Zhang and Kangyi Lin.
+  * We study incremental learning for CTR prediction by resampling data with features which have not been updated for a while. We deployed our feature staleness aware CTR prediction method on Wechat Official Accounts Platform and achieved prominent improvements in A/B test.
 
 News
 ======
