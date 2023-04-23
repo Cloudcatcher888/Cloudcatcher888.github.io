@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/2023-4-22-incremental-learning-for-multi-interest-sequential-recommendation
 date: 2023-4-22
 venue: 'ICDE (accept rate: 19.3%)'
+authors: 'Zhikai Wang,Yanyan Shen'
+notes: 'best paper award (top 1)'
 citation: 'Zhikai, W. Yanyan, S.(2023). "Incremental Learning for Multi-interest Sequential Recommendation." <i>ICDE 2023</i>.'
 ---
 ![icde]({{site.url}}/images/icde2.png)
