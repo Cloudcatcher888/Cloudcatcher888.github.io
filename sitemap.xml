@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -10,23 +9,253 @@
 
 <url>
   <loc>https://cloudcatcher888.github.io/</loc>
-  <lastmod>2022-04-13T12:28:26+00:00</lastmod>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://cloudcatcher888.github.io/about/</loc>
-  <lastmod>2022-04-13T12:28:26+00:00</lastmod>
+  <loc>https://cloudcatcher888.github.io/publications/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cloudcatcher888.github.io/jekyll/update/2022/01/29/My-Paper-Search-Engine-!!.html</loc>
-  <lastmod>2022-04-13T12:28:26+00:00</lastmod>
+  <loc>https://cloudcatcher888.github.io/year-archive/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cloudcatcher888.github.io/jekyll/update/2022/01/29/How-to-set-up-github-pages-based-on-Jekyll.html</loc>
-  <lastmod>2022-04-13T12:28:26+00:00</lastmod>
+  <loc>https://cloudcatcher888.github.io/publication/2023-4-22-incremental-learning-for-multi-interest-sequential-recommendation</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/publication/2023-4-19-feature-staleness-aware-incremental-learning-for-ctr-prediction</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/publication/2023-1-12-contrastive-learning-for-sequential-recommendation-a-survey</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/publication/2022-12-10-time-aware-multi-interest-capsule-network-for-sequential-recommendation</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/sitemap/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/files/icde.pdf</loc>
+  <lastmod>2023-04-23T03:24:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/files/icde_slides.pdf</loc>
+  <lastmod>2023-04-23T03:24:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/files/ijcai23.pdf</loc>
+  <lastmod>2023-04-23T03:24:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/files/sdm.pdf</loc>
+  <lastmod>2023-04-23T03:24:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/quant/quant-note-1/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/multi-interest-modling/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/electron-cordova-nodejs-based-app/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/avalanche-continual-learning-module/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/pyflink-kafka-intro/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/flask-static-web/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/recommendation-system-tips/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/bigdata/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/files/rec.pdf</loc>
+  <lastmod>2023-04-23T03:24:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/Coding-Tips-and-Computer-Knowledge/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/Math-Tools/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/A-Paper-Search-Engine/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/jekyll/update/How-to-set-up-github-pages-based-on-Jekyll/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/404.html</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/archive-layout-with-content/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/categories/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/collection-archive/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/cv/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/markdown/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/non-menu-page/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/page-archive/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/portfolio/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/tags/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/talkmap.html</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/talks/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/teaching/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/terms/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/markdown_generator/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/robots.txt</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/portfolio/portfolio-1/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/portfolio/portfolio-2/</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/talks/2012-03-01-talk-1</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/talks/2013-03-01-tutorial-1</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/talks/2014-02-01-talk-2</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/talks/2014-03-01-talk-3</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/teaching/2014-spring-teaching-1</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/teaching/2015-spring-teaching-1</loc>
+  <lastmod>2023-04-23T03:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cloudcatcher888.github.io/talkmap/map.html</loc>
+  <lastmod>2023-04-23T03:24:22+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
