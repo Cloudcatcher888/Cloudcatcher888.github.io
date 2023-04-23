@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-12-10-time-aware-multi-interest-capsule-network-for-sequential-recommendation
 date: 2022-12-10
 venue: 'SDM (accept rate: 28.7%)'
-citation: 'Zhikai, W. Yanyan, S. (2022). "Time-aware Multi-interest Capsule Network for Sequential Recommendation" <i>SDM 2022</i>.'
+citation: 'Zhikai Wang, Yanyan Shen <i>SDM 2022</i>.'
 ---
 ![sdm]({{site.url}}/images/sdm.png)
 
