@@ -17,11 +17,6 @@ supervised by [Prof. Yanyan Shen](https://www.cs.sjtu.edu.cn/~shen-yy/).
 
 * Sept. 2015-July 2019, Bachelor of Engineering at Shanghai Jiao Tong University. 
 
-News:
-======
-2023.03: Our paper “Incremental Learning for Multi-interest Sequential Recommendation” received the
-ICDE 2023 Best Paper Award (top 1)!
-
 Work experience
 ======
 * Dec. 2021-Dec. 2022: Research Assistant
