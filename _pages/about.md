@@ -25,7 +25,7 @@ Work experience
 News
 ======
 * 2023.03: Our paper “Incremental Learning for Multi-interest Sequential Recommendation” received the
-ICDE 2023 Best Paper Award (top 1)!
+ICDE 2023 <font color="red">Best Paper Award (top 1)</font>!
 
 Research Interest
 ======
