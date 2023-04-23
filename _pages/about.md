@@ -20,7 +20,7 @@ supervised by [Prof. Yanyan Shen](https://www.cs.sjtu.edu.cn/~shen-yy/).
 Work experience
 ======
 * Dec. 2021-Dec. 2022: Research Assistant
-  * Tencent， supervisor by Zibin Zhang and Kangyi Lin.
+  * Tencent, supervised by Zibin Zhang and Kangyi Lin.
 
 Research Interest
 ======
@@ -31,4 +31,3 @@ Publications
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
