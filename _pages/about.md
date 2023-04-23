@@ -22,6 +22,11 @@ Work experience
 * Dec. 2021-Dec. 2022: Research Assistant
   * Tencent Wechat Official Accounts Platform, supervised by Zibin Zhang and Kangyi Lin.
 
+News:
+======
+* 2023.03: Our paper “Incremental Learning for Multi-interest Sequential Recommendation” received the
+ICDE 2023 Best Paper Award (top 1)!
+
 Research Interest
 ======
 I'm interested in devleoping efficient models for recommendation system (e.g. CTR prediction and sequential recommendation) and improve the generalization ability of models in incremental scenario.  
